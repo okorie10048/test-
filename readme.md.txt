@@ -9,5 +9,3 @@ yes
 no
 
 yeah
-
-jo
