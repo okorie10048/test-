@@ -5,5 +5,3 @@
 come
 
 yes
-
-no
