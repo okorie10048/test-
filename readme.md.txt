@@ -7,5 +7,3 @@ come
 yes
 
 no
-
-yeah
