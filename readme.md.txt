@@ -9,7 +9,3 @@ yes
 no
 
 yeah
-
-jo
-
-# good to
